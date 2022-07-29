@@ -1,0 +1,22 @@
+{
+  "name": "tarea1",
+  "version": "1.0.0",
+  "description": "Este es el ejercicio de introduccion a javaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/juanlope58/OpenBootcamp/ejercicio_introduccion.git"
+  },
+  "keywords": [
+    "ejercicio1"
+  ],
+  "author": "Juan Carlos Lopera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanlope58/OpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/juanlope58/OpenBootcamp#readme"
+}
