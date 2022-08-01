@@ -1,4 +1,4 @@
-const name = "Juan Carlos Lopera";
+const fullname = "Juan Carlos Lopera";
 const age = 29;
 const isDeveloper = true;
 const birthDay = new Date(1993, 3, 30);
@@ -9,6 +9,6 @@ let favorite_book = {
     url: "www.elpoderdelahora.com"
 };
 
-let lista = [name, age, isDeveloper, birthDay, favorite_book];
+let lista = [fullname, age, isDeveloper, birthDay, favorite_book];
 
 console.log(lista);
